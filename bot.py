@@ -5,12 +5,12 @@ from aiogram.utils import executor
 from telethon import TelegramClient
 
 # 🔹 Данные от BotFather
-BOT_TOKEN = "ВАШ_ТОКЕН_БОТА"
+BOT_TOKEN = "7548223494:AAEf8wOF3hS0GhmspxHN7ppwEXFN37NH_TY"
 
 # 🔹 Данные от my.telegram.org
-API_ID = 123456  # Ваш API ID
-API_HASH = "abcdef1234567890abcdef1234567890"
-PHONE_NUMBER = "+1234567890"
+API_ID = 23028314  # Ваш API ID
+API_HASH = "78e949e79c6f95f3d081e65c28be2282"
+PHONE_NUMBER = "+79384334416"
 
 # Инициализация бота
 bot = Bot(token=BOT_TOKEN)
